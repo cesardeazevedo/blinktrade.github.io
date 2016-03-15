@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlinkTrade Inc.</title>
+    <description>BlinkTrade - Open your own bitcoin exchange</description>
+    <link>//localhost:4000/</link>
+    <atom:link href="//localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome to Blinktrade!</title>
+        <description>&lt;p&gt;TODO&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Sep 2014 21:37:47 -0300</pubDate>
+        <link>//localhost:4000/welcome-to-blinktrade/</link>
+        <guid isPermaLink="true">//localhost:4000/welcome-to-blinktrade/</guid>
+      </item>
+    
+  </channel>
+</rss>
