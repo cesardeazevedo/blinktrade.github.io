@@ -3,8 +3,8 @@
   <channel>
     <title>BlinkTrade Inc.</title>
     <description>BlinkTrade - Open your own bitcoin exchange</description>
-    <link>http://cesardeazevedo.github.io/blinktrade.github.io/</link>
-    <atom:link href="http://cesardeazevedo.github.io/blinktrade.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:4000/</link>
+    <atom:link href="//localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Welcome to Blinktrade!</title>
@@ -12,8 +12,8 @@
 
 </description>
         <pubDate>Thu, 18 Sep 2014 21:37:47 -0300</pubDate>
-        <link>http://cesardeazevedo.github.io/blinktrade.github.io/welcome-to-blinktrade/</link>
-        <guid isPermaLink="true">http://cesardeazevedo.github.io/blinktrade.github.io/welcome-to-blinktrade/</guid>
+        <link>//localhost:4000/welcome-to-blinktrade/</link>
+        <guid isPermaLink="true">//localhost:4000/welcome-to-blinktrade/</guid>
       </item>
     
   </channel>
